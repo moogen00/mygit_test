@@ -1,6 +1,5 @@
 #include <iostream>
-
-
+//
 using namespace std;
 
 class Strategy {
@@ -8,6 +7,8 @@ class Strategy {
 	virtual void execute() = 0;	
 };
 
+
+//
 class ConcreteStrategyA : public Strategy {
 	public:
 		virtual void execute() {
