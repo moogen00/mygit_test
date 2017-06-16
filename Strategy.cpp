@@ -1,5 +1,6 @@
 #include <iostream>
 //
+// local branch
 using namespace std;
 
 class Strategy {
