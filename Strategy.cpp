@@ -2,6 +2,7 @@
 //
 // local branch
 // 20170619 - 0001
+// 0002
 using namespace std;
 
 class Strategy {
