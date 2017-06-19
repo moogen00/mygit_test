@@ -1,6 +1,7 @@
 #include <iostream>
 //
 // local branch
+// 20170619 - 0001
 using namespace std;
 
 class Strategy {
