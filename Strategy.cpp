@@ -4,6 +4,9 @@
 // 20170619 - 0001
 // 0002
 // 0003
+// 0004
+// 0006
+// 0007
 using namespace std;
 
 class Strategy {
