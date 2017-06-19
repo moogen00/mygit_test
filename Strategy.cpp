@@ -5,6 +5,7 @@
 // 0002
 // 0003
 // 0004
+// 0006
 using namespace std;
 
 class Strategy {
